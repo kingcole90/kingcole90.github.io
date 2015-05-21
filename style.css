@@ -8,6 +8,8 @@ h1{
 body{
 	background-color: #000;
 	color: #fff;
+	margin: 40px;
+	padding: 40;
 }
 h2{
 	margin: 20px;
